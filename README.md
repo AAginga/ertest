@@ -1,4 +1,4 @@
-# laravue
+# Code Challenge
 
 Instructions
 
